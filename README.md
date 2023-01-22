@@ -4,7 +4,6 @@
 <p align="center">
 <a href="#-tecnologies">Tecnologies</a>
 <a href="#-project">Project</a>
-<a href="#-layout">Layout</a>
 </p>
 
 <p align="center">
@@ -23,4 +22,4 @@ This project was built with:
 
 The Goals is a website to help people achieve their your goals day by day.
 
-- [Acess the finished project online] (https://kauanatombolato.github.io/goals)
+- [Acess the finished project online] (https://kauanatombolato.github.io/goals2023)
