@@ -20,6 +20,6 @@ This project was built with:
 
 ## Project
 
-The Goals is a website to help people achieve their your goals day by day.
+The Goals is a website to help people achieve their goals day by day.
 
 - [Acess the finished project online] (https://kauanatombolato.github.io/goals2023)
