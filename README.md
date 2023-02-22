@@ -22,4 +22,4 @@ This project was built with:
 
 The Goals is a website to help people achieve their goals day by day.
 
-- [Acess the finished project online] (https://kauanatomb.github.io/goals/)
+- <a href="https://kauanatomb.github.io/goals/"> Access the finished project online</a>
